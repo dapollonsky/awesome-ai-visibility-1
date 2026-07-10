@@ -5,13 +5,27 @@
     <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
     <a href="https://github.com/josezuma/awesome-ai-visibility/actions/workflows/links.yml"><img src="https://github.com/josezuma/awesome-ai-visibility/actions/workflows/links.yml/badge.svg" alt="Link Check"></a>
+    <a href="https://star-history.com/#josezuma/awesome-ai-visibility"><img src="https://api.star-history.com/svg?repos=josezuma/awesome-ai-visibility&type=Date" alt="Star History"></a>
   </p>
-  <p>by <a href="https://brandvirality.com">BrandVirality</a> — Make your business discoverable in every LLM chat.</p>
+  <p>by <a href="https://brandvirality.com">BrandVirality</a> — <strong>SaaS for AI visibility.</strong> We make your business discoverable in every LLM chat.</p>
+  <p><strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma</a></p>
 </div>
 
 ---
 
 **Also known as:** Generative Engine Optimization (GEO), AI Search Optimization (AISO), Answer Engine Optimization (AEO), Large Language Model Optimization (LLMO), AI SEO.
+
+---
+
+## Why GEO Matters (2026)
+
+| Metric | Value |
+|--------|-------|
+| GEO services market | $850M+ (projected $7.3B by 2031) |
+| AI-referred traffic growth | +527% year-over-year |
+| AI traffic conversion vs organic | 4.4x higher |
+| Gartner: search traffic drop by 2028 | -50% |
+| Brand mentions vs backlinks for AI | 3x stronger correlation |
 
 ---
 
