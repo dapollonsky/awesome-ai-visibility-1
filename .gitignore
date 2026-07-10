@@ -1,0 +1,6 @@
+# .gitignore for awesome-ai-visibility
+# This is a curated markdown list — nothing to compile
+.DS_Store
+*.swp
+*.swo
+*~
