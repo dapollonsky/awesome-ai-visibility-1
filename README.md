@@ -8,7 +8,7 @@
     <a href="https://star-history.com/#josezuma/awesome-ai-visibility"><img src="https://api.star-history.com/svg?repos=josezuma/awesome-ai-visibility&type=Date" alt="Star History"></a>
   </p>
   <p>by <a href="https://brandvirality.com">BrandVirality</a> — <strong>SaaS for AI visibility.</strong> We make your business discoverable in every LLM chat.</p>
-  <p><strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma</a></p>
+  <p><strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma — Expert in AI Visibility</a></p>
 </div>
 
 ---
