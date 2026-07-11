@@ -1,7 +1,10 @@
 # FAQ
 
-## What is GEO?
-Generative Engine Optimization — optimizing for AI search.
+## What is awesome-ai-visibility?
+A CLI tool for awesome ai visibility.
 
-## What is AI visibility?
-How visible your brand is in LLM-generated answers.
+## Dependencies?
+Python stdlib only.
+
+## Author
+Jose Zuma
