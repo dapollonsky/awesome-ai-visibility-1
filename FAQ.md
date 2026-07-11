@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is awesome-ai-visibility?
-A CLI tool for awesome ai visibility.
+Awesome Ai Visibility
 
 ## Dependencies?
 Python stdlib only.

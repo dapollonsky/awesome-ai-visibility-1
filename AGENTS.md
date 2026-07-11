@@ -1,7 +1,7 @@
 # awesome-ai-visibility
 
-CLI tool for awesome ai visibility.
+Awesome Ai Visibility
 
 ## For AI agents
-- Run `python3 scripts/cli.py --help`
-- Use `--json` flag for machine-readable output
+- Run `python3 scripts/awesome_ai_visibility.py --help`
+- Use `--json` for machine-readable output
